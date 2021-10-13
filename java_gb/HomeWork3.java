@@ -1,3 +1,11 @@
+/**
+ *Java 1. Home work 3.
+ *
+ *@author Morilov
+ *@version 13.10.2021
+*/
+
+
 import java.util.Arrays;
 
 class HomeWork3 {
