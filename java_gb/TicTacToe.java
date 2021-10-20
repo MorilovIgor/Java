@@ -2,7 +2,7 @@
  * Java 1. Home work 4.
  * 
  * @author Morilov
- * @version 16.10.2021
+ * @version 20.10.2021
 */
 
 import java.util.Scanner;
