@@ -5,7 +5,6 @@
  *@vesion 28.10.2021
 */
 
-import java.util.Scanner;
 
 class HomeWork7 {
     public static void main(String[] args) {
