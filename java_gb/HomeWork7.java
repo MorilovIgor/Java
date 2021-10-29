@@ -12,24 +12,25 @@ class HomeWork7 {
             new Cat("Barsik", 5),
             new Cat("Murzik", 3),
             new Cat("Pushok", 7),
-            new Cat("Tiger", 17)
+            new Cat("Tiger", 17),
+            new Cat("Vasily", 15)
         };
         Plate plate = new Plate(30);
         
         System.out.println(plate);
         for (Cat cats : cat) {
-            System.out.println(cats);
             cats.eat(plate);
+            System.out.println(cats);
             System.out.println(plate);
         }
         
         // покорми всех!
-        plate.add(32);
+        plate.add(47);
         System.out.println(plate);
         for (Cat cats : cat) {
             cats.setFullnes(false);
-            System.out.println(cats);
             cats.eat(plate);
+            System.out.println(cats);
             System.out.println(plate);
         }
         
